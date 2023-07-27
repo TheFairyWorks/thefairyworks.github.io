@@ -7,7 +7,7 @@ hero:
   tagline: Lorem ipsum...
   image:
     src: /logo.png
-    alt: VitePress
+    alt: VitePres
   actions:
     - theme: brand
       text: Get Started
